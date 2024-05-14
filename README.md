@@ -13,5 +13,5 @@ Execute command below.
 $ python cointoss.py
 ```
 
-
+![Demo](./output.gif)
 
